@@ -1,0 +1,4 @@
+﻿  Hangman.c
+C:\Users\yjiangck\Documents\WeChat Files\wxid_toe5kljsp3gz12\FileStorage\File\2021-01\Hangman.c(144,32): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yjiangck\Documents\WeChat Files\wxid_toe5kljsp3gz12\FileStorage\File\2021-01\Hangman.c(191,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  2.vcxproj -> D:\HKUST\COMP1029C\2\x64\Debug\2.exe

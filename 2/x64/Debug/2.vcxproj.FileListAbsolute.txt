@@ -1,0 +1,2 @@
+D:\HKUST\COMP1029C\2\x64\Debug\2.exe
+D:\HKUST\COMP1029C\2\x64\Debug\2.pdb
